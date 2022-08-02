@@ -1,10 +1,10 @@
 i uesed XAMPP so if you want to run it in your computer you have to install XAMPP  and Run Apache and MySQL
 
-then create floder inside  "xamm\htdocs\" and name it 'week4'
+then create folder inside  "xamm\htdocs\" and name it 'week4'
 
 then put "CreateDatabase.php" and "Value.php" inside "xamm\htdocs\week4" folder,
 
-then got to your browser url and search "localhost/week4/"
+then go to your browser url and search "localhost/week4/"
 
 then run "CreateDatabase.php" once to create database and table
 
